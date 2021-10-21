@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="01 Java SE Basico:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/01_Java_SE_Basico_jar</output-path>
+    <root id="archive" name="01 Java SE Basico.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
